@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhoneFinderfinal</string>
+    <string name="editText">Enter your passcode</string>
+    <string name="button">Submit</string>
+    <string name="toast">Clicked</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
